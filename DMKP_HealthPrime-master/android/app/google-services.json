@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "502168568722",
+    "project_id": "healthprime-2d91a",
+    "storage_bucket": "healthprime-2d91a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502168568722:android:e4b21de714a8a3e052b74b",
+        "android_client_info": {
+          "package_name": "com.dmkp.healthprime.healthprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502168568722-bj948a1lhepd3f31ijqh9ot2mo8507fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmkp.healthprime.healthprime",
+            "certificate_hash": "8e83f89e4db7f2fa93497559de1b8c7fc798f26d"
+          }
+        },
+        {
+          "client_id": "502168568722-7vuigt1luou78f32k8gcif3vufjr12ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFM34DA3YgLYlKeGwAuT-VNfvunEXAPTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502168568722-7vuigt1luou78f32k8gcif3vufjr12ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502168568722-0r954e182jldrgm4m7rqnlnlm1sqvenf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmkp.healthprime.healthprime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
